@@ -11,21 +11,41 @@
   <a href="#"><img src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a>
 
   <p>Things cats love:</p>
+  
+<!--
+Unordered list
+-->
+  
   <ul>
     <li>cat nip</li>
     <li>laser pointers</li>
     <li>lasagna</li>
   </ul>
   <p>Top 3 things cats hate:</p>
+  
+<!--
+Ordered list
+-->
+
   <ol>
     <li>flea treatment</li>
     <li>thunder</li>
     <li>other cats</li>
   </ol>
+  
+<!--
+Here the form opens
+-->
+
   <form action="/submit-cat-photo">
     <input type="text" placeholder="cat photo URL">
     <button type="submit">Submit</button>
   </form>
+
+<!--
+Here the form closes
+-->
+
 </main>
 </body>
 <footer>
